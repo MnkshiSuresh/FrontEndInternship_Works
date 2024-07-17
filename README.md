@@ -1,5 +1,5 @@
 # FrontEndInternship_Works
-Developed an exact replica of randomly assigned website as part of internship.  
+Developed exact replicas of randomly assigned website as part of internship.  
 
 
 
