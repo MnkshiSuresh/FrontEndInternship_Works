@@ -1,4 +1,4 @@
-# FrontEndInternship_Works
+z# FrontEndInternship_Works
 Developed exact replicas of randomly assigned website as part of internship.  
 
 
@@ -13,6 +13,6 @@ Developed exact replicas of randomly assigned website as part of internship.
 
 ![drone](https://github.com/user-attachments/assets/1b401b38-7b02-46b0-95c2-72dc6bcbd8c4)
 
-![bw](https://github.com/user-attachments/assets/1ebe1b27-965e-4ee6-be47-186b67e7f3ef)
+![bw](https://github.com/user-attachments/assets/d9326c74-3cee-4961-9354-eff9c2180550)
 
 reference: https://dribbble.com/tags/web-ui-design
