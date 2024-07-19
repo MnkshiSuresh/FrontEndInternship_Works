@@ -1,4 +1,4 @@
- import { HiBars2 } from "react-icons/hi2";
+import { HiBars2 } from "react-icons/hi2";
 import { FaArrowRight } from "react-icons/fa";
 import { MdOutlineMail } from "react-icons/md";
 const App = () => {
